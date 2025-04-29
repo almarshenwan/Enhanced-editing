@@ -28,20 +28,27 @@ Amongst others here are the main features Obsidian offers:
 
 And many more!
 
-## Documentation
+## 📖 Documentation
 
 All the Obsidian documentation is available in [the handbook](https://help.obsidian.md/).
 
-## Security
+## 🛡️ Security
 With Obsidian Sync, your data is secured using the strongest encryption standard, AES‑256.  
 
 For a detailed description of Obsidian's End-to-End Encryption (E2EE) implementation,
 please check [this link](https://obsidian.md/security).
 
-## Contributing
+## 🤝 Contributing
 
 If you are looking to contribute to Obsidian, first of all, thank you! Please
 see our [guidelines for contributing](https://publish.obsidian.md/hub/CONTRIBUTING).
+
+## 📃 License
+
+This repository is licensed under [GNU General Public License v3.0](https://github.com/almarshenwan/fancy-file-mover/blob/main/LICENSE). If you don’t want to read the whole license, here’s a summary without legal force:
+* ⚖️ You are allowed to download, use, copy, publish and distribute.
+* ✍️ You are allowed to create modified versions but you may only distribute them on same license.
+* 🛡️ Repository comes with absolutely no warranty.
 
 <br />
 <br />
